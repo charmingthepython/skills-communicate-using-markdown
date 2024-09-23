@@ -8,3 +8,8 @@
 def my_func():
     print("Hello world!")
 ```
+
+Checklist:
+- [x] this is task 1
+- [x] this is task 2
+- [ ] this is task 3
