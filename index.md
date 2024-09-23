@@ -2,4 +2,4 @@
 ## Header2
 ###### Header6
 
-Edited the file and added different markedown headers.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
